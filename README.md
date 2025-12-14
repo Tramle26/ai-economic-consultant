@@ -1,4 +1,4 @@
-# [EconoSense_AI]
+# EconoSense_AI
 
 An AI-powered economic consulting assistant that provides real-time insights, forecasts, and strategy recommendations in plain English.
 
